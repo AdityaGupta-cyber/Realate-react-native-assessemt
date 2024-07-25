@@ -1,0 +1,79 @@
+# Node modules
+/node_modules/
+
+# Expo files
+.expo/
+.expo-shared/
+
+# React Native build files
+*.iml
+*.log
+*.lock
+*.swp
+*.swo
+*.DS_Store
+*.gradle
+*.keystore
+*.jks
+*.hmap
+*.xcodeproj/
+*.xcworkspace/
+*.xcuserstate
+*.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+*.pbxproj
+*.xcuserdatad/
+*.moved-aside
+*.plist
+*.hmap
+*.pch
+
+# Android specific
+android/.gradle/
+android/app/build/
+android/gradle/
+android/gradle-wrapper.jar
+android/gradle-wrapper.properties
+android/local.properties
+android/*.iml
+
+# iOS specific
+ios/Pods/
+ios/DerivedData/
+ios/build/
+ios/*.xcodeproj/*
+ios/*.xcworkspace/*
+ios/xcuserdata/
+ios/*.xcuserstate
+ios/*.xcscheme
+ios/*.xcscheme/
+ios/fastlane/report.xml
+
+# MacOS Finder metadata
+.DS_Store
+
+# Log files
+*.log
+
+# OS-specific files
+Thumbs.db
+ehthumbs.db
+
+# Bundler
+.bundle
+
+# dotenv environment variables file
+.env
+.env.*.local
+
+# IDE-specific files
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+
+# Expo
+.expo/
+.expo-shared/
